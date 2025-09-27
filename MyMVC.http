@@ -1,0 +1,6 @@
+@MyMVC_HostAddress = http://localhost:5170
+
+GET {{MyMVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
