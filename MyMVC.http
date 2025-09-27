@@ -1,4 +1,4 @@
-@MyMVC_HostAddress = http://localhost:5183
+@MyMVC_HostAddress = http://localhost:5174
 
 GET {{MyMVC_HostAddress}}/weatherforecast/
 Accept: application/json
